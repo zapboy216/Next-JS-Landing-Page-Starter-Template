@@ -1,1 +1,1 @@
-## Landing Page Template built with Next JS 14+, Tailwind CSS 3 and TypeScript
+## A Landing Page Template built with Next JS 14+, Tailwind CSS 3 and TypeScript
